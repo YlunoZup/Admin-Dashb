@@ -1,61 +1,38 @@
 <p align="center">
-    <a href="https://bloomui.com" title="BloomUI.com">
-        <img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-logo.png" alt="Tokyo Free White Typescript React Admin Dashboard">
+    <a href="https://gonetconnect.ddns.net" title="GMX IT Solution">
+        <img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-logo.png" alt="GMX IT Solution Voucher System Dashboard">
     </a>
 </p>
-<h1 align="center">
-    <b>Tokyo Free White Typescript React Admin Dashboard</b>
-    <br>
-    <a href="https://twitter.com/intent/tweet?url=https://bloomui.com&text=I like this React admin dashboard">
-        <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
-    </a>
-</h1>
+
+# **GMX IT Solution Voucher System Dashboard**
+
 <div align="center">
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg)
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![license](https://img.shields.io/badge/license-Proprietary-blue.svg)
 
-<a href="https://bloomui.com/product/tokyo-free-white-react-typescript-material-ui-admin-dashboard/"><img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-free-white-react-typescript-material-ui-admin-dashboard.jpg" /></a>
+<a href="https://gonetconnect.ddns.net"><img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-free-white-react-typescript-material-ui-admin-dashboard.jpg" alt="GMX IT Solution Dashboard Preview" /></a>
+
 </div>
 
-<a href="https://bloomui.com/product/tokyo-free-white-react-typescript-material-ui-admin-dashboard/"><h3>Free React Typescript Admin Dashboard Template built with Material-UI</h3></a>
-<p>
-    This free and open source admin dashboard template is built for React and it’s bootstrapped from Facebook’s create-react-app. All NPM dependencies are up to date and it contains multiple fully customized components based on the popular frontend components framework, Material-UI.
-</p>
-<p>
-Tokyo Free White Typescript Dashboard features a nice classic light & clean design and color scheme.
-</p>
-<p>
-You can customize the color scheme and style by editing a single variables files. This Typescript admin dashboard doesn’t use SCSS stylesheets but the more modern approach with styled-components.
-</p>
-<p>
-We’ve included a few page examples for most used user flows that will give you a solid base for getting started with your new project’s development. With very light modifications you can even integrate Tokyo Free White Typescript Dashboard into existing projects giving them a much deserved makeover.
-</p>
+### About the GMX IT Solution Voucher System Dashboard
+The **GMX IT Solution Voucher System Dashboard** is an intuitive platform designed to manage, monitor, and configure your Wi-Fi voucher system effectively. This system integrates cutting-edge tools for seamless internet access deployment, enabling clients to purchase and redeem vouchers across multiple locations.
 
----
-<h3>Updrade to PRO</h3>
-
-<p>If you're looking for more features like translations, complex user flows, redux examples and more,  we recommend taking a look at the premium version (Tokyo White Typescript Dashboard) on <a href="https://bloomui.com">bloomui.com</a></p>
+Built with React and Material-UI, the dashboard provides a modern and user-friendly interface, ensuring smooth navigation and control over the voucher system's backend functionalities.
 
 ---
 
-<h2>
-    Quick Start
-</h2>
-<ol>
-    <li>Make sure you have the latest stable versions for Node.js and NPM installed</li>
-    <li>Clone repository: <code>git clone https://github.com/bloomui/tokyo-free-white-react-admin-dashboard.git</code></li>
-    <li>Install dependencies: Run <code>npm install</code> inside the project folder</li>
-    <li>Start dev server: After the install finishes, run <code>npm run start</code>. A browser window will open on http://localhost:3000 where you''ll see the live preview</li>
-</ol>
+### Key Features
+- Manage and configure multiple Omada routers with ease
+- Integration with GCash and Maya for seamless e-payment processing
+- Real-time monitoring of router and voucher usage
+- API integrations for enhanced functionality
+- Centralized management for multi-location router deployment
 
 ---
 
-<h2>
-    Technical Support
-</h2>
-<p>
-    You can open a support ticket by sending an email here: <a href="mailto:support@bloomui.freshdesk.com" title="Open Support Ticket">
-        support@bloomui.freshdesk.com
-    </a>
-</p>
+## Getting Started
+1. Ensure the latest versions of **Node.js** and **NPM** are installed on your system.
+2. Clone the repository:  
+   ```bash
+   git clone https://github.com/YlunoZup/Admin-Dashb.git
